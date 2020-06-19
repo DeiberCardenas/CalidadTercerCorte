@@ -1,0 +1,4 @@
+SOFTWARE: Sistema de kardex (StockApp)
+VERSIÓN: 1.0.5
+FUENTE: https://github.com/ahiguerl/KARDEX
+PROPIEDAD: desconocido
